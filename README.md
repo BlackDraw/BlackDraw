@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackDraw
-- 👀 I’m interested in Home Assisntant integration
+- 👀 I’m interested in Home Assistant integration
 - 🌱 I’m currently learning all ;)
 
 <!---
